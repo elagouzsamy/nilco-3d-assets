@@ -112,5 +112,45 @@
    "credit": "© 2023 Eric Chadwick; © 2023 Rico Cilliers",
    "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/GlassVaseFlowers"
   }
+ ],
+ "agents": [
+  {
+   "file": "models/agents/robot-agent.glb",
+   "ar": "روبوت (وكيل ذكاء اصطناعي) — فيه حركات: يلوّح، يرقص، موافق، لا…",
+   "license": [
+    "CC0-1.0"
+   ],
+   "credit": "Tomás Laulhé (Quaternius)، تعديل Don McCurdy",
+   "source": "https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/RobotExpressive"
+  }
+ ],
+ "office": [
+  {
+   "file": "models/office/sofa.glb",
+   "ar": "كنبة",
+   "license": [
+    "CC-BY-4.0"
+   ],
+   "credit": "© 2021 Eric Chadwick",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/GlamVelvetSofa"
+  },
+  {
+   "file": "models/office/armchair.glb",
+   "ar": "كرسي فوتيه",
+   "license": [
+    "CC-BY-4.0"
+   ],
+   "credit": "© 2021 Eric Chadwick",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/ChairDamaskPurplegold"
+  },
+  {
+   "file": "models/office/lamp.glb",
+   "ar": "أباجورة",
+   "license": [
+    "CC-BY-4.0"
+   ],
+   "credit": "© 2023 Eric Chadwick",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/AnisotropyBarnLamp"
+  }
  ]
 }

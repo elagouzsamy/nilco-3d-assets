@@ -19,3 +19,7 @@
 | `models/products/boombox.glb` | راديو | CC0-1.0 | © 2017 Microsoft |
 | `models/products/chair.glb` | كرسي | CC0-1.0 | © 2020 Eric Chadwick |
 | `models/products/vase-flowers.glb` | فازة ورد | CC0-1.0 | © 2023 Eric Chadwick; © 2023 Rico Cilliers |
+| `models/agents/robot-agent.glb` | روبوت وكيل (متحرّك) | CC0-1.0 | Tomás Laulhé (Quaternius) |
+| `models/office/sofa.glb` | كنبة | CC-BY-4.0 | © 2021 Eric Chadwick |
+| `models/office/armchair.glb` | كرسي فوتيه | CC-BY-4.0 | © 2021 Eric Chadwick |
+| `models/office/lamp.glb` | أباجورة | CC-BY-4.0 | © 2023 Eric Chadwick |
