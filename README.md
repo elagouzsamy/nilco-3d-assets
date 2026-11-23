@@ -25,7 +25,7 @@
 المجسمات من Microsoft Fluent UI Emoji، برخصة MIT (ملف `LICENSE-fluentui-emoji`). الاستخدام التجاري مسموح، بشرط إن ملف الرخصة يفضل موجود مع الملفات.
 
 ## مجسمات GLB (3D حقيقي يتلف)
-فولدر `models/` فيه 12 مجسم GLB (أكل، تلاجة عرض، منتجات)، متصغّرين علشان يفتحوا بسرعة على الموبايل. افتح `models.html` علشان تشوفهم وتلفّهم، والقايمة كلها في `models.json`.
+فولدر `models/` فيه أكتر من 500 مجسم GLB: روبوت وكيل متحرّك، مكتب، مباني تجارية وأبراج، أجزاء مباني، عفش ومكاتب، أكل، ومنتجات، متصغّرين علشان يفتحوا بسرعة على الموبايل. افتح `models.html` علشان تشوفهم وتلفّهم، والقايمة كلها في `models.json`.
 
 ```html
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>

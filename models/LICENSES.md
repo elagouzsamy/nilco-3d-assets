@@ -23,3 +23,6 @@
 | `models/office/sofa.glb` | كنبة | CC-BY-4.0 | © 2021 Eric Chadwick |
 | `models/office/armchair.glb` | كرسي فوتيه | CC-BY-4.0 | © 2021 Eric Chadwick |
 | `models/office/lamp.glb` | أباجورة | CC-BY-4.0 | © 2023 Eric Chadwick |
+
+## مجسمات Kenney (CC0)
+الفولدرات `models/city` و`models/buildings` و`models/furniture` و`models/food-kenney` كلها من Kenney (www.kenney.nl) برخصة **CC0**: مجانية تماماً حتى للاستخدام التجاري، ومش لازم تذكر المصدر. الخامة (colormap) اتدمجت جوه كل ملف GLB علشان كل ملف يشتغل لوحده.
