@@ -23,3 +23,13 @@
 
 ## الرخصة
 المجسمات من Microsoft Fluent UI Emoji، برخصة MIT (ملف `LICENSE-fluentui-emoji`). الاستخدام التجاري مسموح، بشرط إن ملف الرخصة يفضل موجود مع الملفات.
+
+## مجسمات GLB (3D حقيقي يتلف)
+فولدر `models/` فيه 12 مجسم GLB (أكل، تلاجة عرض، منتجات)، متصغّرين علشان يفتحوا بسرعة على الموبايل. افتح `models.html` علشان تشوفهم وتلفّهم، والقايمة كلها في `models.json`.
+
+```html
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+<model-viewer src="models/food/avocado.glb" camera-controls auto-rotate></model-viewer>
+```
+
+الرخص في `models/LICENSES.md`: بعضها CC0 (من غير شروط)، وبعضها CC-BY-4.0 (لازم يتذكر اسم صاحبه).

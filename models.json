@@ -1,0 +1,116 @@
+{
+ "food": [
+  {
+   "file": "models/food/avocado.glb",
+   "ar": "أفوكادو",
+   "license": [
+    "CC0-1.0"
+   ],
+   "credit": "© 2017 Microsoft",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/Avocado"
+  },
+  {
+   "file": "models/food/fish.glb",
+   "ar": "سمكة",
+   "license": [
+    "CC0-1.0"
+   ],
+   "credit": "© 2017 Microsoft",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/BarramundiFish"
+  },
+  {
+   "file": "models/food/dish-with-olives.glb",
+   "ar": "طبق زيتون",
+   "license": [
+    "CC-BY-4.0"
+   ],
+   "credit": "© 2020 Eric Chadwick",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/IridescentDishWithOlives"
+  }
+ ],
+ "shop": [
+  {
+   "file": "models/shop/commercial-fridge.glb",
+   "ar": "تلاجة عرض محل",
+   "license": [
+    "CC-BY-4.0"
+   ],
+   "credit": "© 2025 Eric Chadwick; © 2025 Sean Thomas",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CommercialRefrigerator"
+  }
+ ],
+ "products": [
+  {
+   "file": "models/products/water-bottle.glb",
+   "ar": "زجاجة مياه",
+   "license": [
+    "CC0-1.0"
+   ],
+   "credit": "© 2017 Microsoft",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/WaterBottle"
+  },
+  {
+   "file": "models/products/teacup.glb",
+   "ar": "فنجان شاي",
+   "license": [
+    "CC0-1.0"
+   ],
+   "credit": "© 2023 Polyhaven.com, and Eric Chadwick",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/DiffuseTransmissionTeacup"
+  },
+  {
+   "file": "models/products/sneaker.glb",
+   "ar": "حذاء رياضي",
+   "license": [
+    "CC-BY-4.0"
+   ],
+   "credit": "© 2021 Shopify",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/MaterialsVariantsShoe"
+  },
+  {
+   "file": "models/products/toy-car.glb",
+   "ar": "عربية",
+   "license": [
+    "CC0-1.0"
+   ],
+   "credit": "© 2020 Eric Chadwick; © 2020 Guido Odendahl",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/ToyCar"
+  },
+  {
+   "file": "models/products/lantern.glb",
+   "ar": "فانوس",
+   "license": [
+    "CC0-1.0"
+   ],
+   "credit": "© 2017 sbtron; © 2018 Frank Galligan",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/Lantern"
+  },
+  {
+   "file": "models/products/boombox.glb",
+   "ar": "راديو",
+   "license": [
+    "CC0-1.0"
+   ],
+   "credit": "© 2017 Microsoft",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/BoomBox"
+  },
+  {
+   "file": "models/products/chair.glb",
+   "ar": "كرسي",
+   "license": [
+    "CC0-1.0"
+   ],
+   "credit": "© 2020 Eric Chadwick",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/SheenChair"
+  },
+  {
+   "file": "models/products/vase-flowers.glb",
+   "ar": "فازة ورد",
+   "license": [
+    "CC0-1.0"
+   ],
+   "credit": "© 2023 Eric Chadwick; © 2023 Rico Cilliers",
+   "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/GlassVaseFlowers"
+  }
+ ]
+}
